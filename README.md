@@ -1,2 +1,2 @@
-e59e6634ec3da5a8582c8304c1176abd6b03d7544cd8a018e98c3e487734368aa096dd7217744391a67cb93fa04d5d76114d2a5509d872e0ff6f1588cc3aa352
-    https://minepi.com/validation-key.txt
+
+Reference: https://github.com/vinh2852k3-spec/demo/commit/f6e59dcfd071cc10057ca9a9dff595467755b018
